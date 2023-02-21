@@ -1,4 +1,4 @@
-# Cash-Register
+#MARK-7-Fun-Translate
 <h1>developed by using HTML5, CSS3, Vanilla JavaScript and Funtranslations API</h1>
 <h2>The Kligon converter(fun translate) This app will convert english sentence to Kligon language.Which is a fictional alien language</h2>
 
